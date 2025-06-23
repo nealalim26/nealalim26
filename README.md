@@ -167,11 +167,16 @@ AI/ML Integration     ███████████████████�
 
 <div align="center">
 
-<!-- Your Vercel Widget (Primary) -->
-![Spotify Now Playing](https://spotify-widget-five.vercel.app/api/spotify)
+### 🎧 Currently Playing on Spotify
+[![Spotify](spotify-widget-five.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
-<!-- Fallback Widget (if yours is down) -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=nealalim26&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f)](https://open.spotify.com/user/nealalim26)
+</div>
+
+<div align="center">
+
+**🎧 Find me on Spotify:** [**@nealalim26**](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+
+[![Spotify Follow](https://img.shields.io/badge/Spotify-Follow%20Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 </div>
 
