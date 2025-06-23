@@ -1,0 +1,25 @@
+{
+  "name": "nealalim26",
+  "version": "1.0.0",
+  "description": "<!--\r **nealalim26/nealalim26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealalim26/nealalim26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nealalim26/nealalim26/issues"
+  },
+  "homepage": "https://github.com/nealalim26/nealalim26#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^5.1.0"
+  }
+}
