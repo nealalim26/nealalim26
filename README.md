@@ -103,6 +103,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nealalim26&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
+## 🎵 Currently Listening To
+
+<div align="center">
+
+<!-- SPOTIFY-CURRENTLY-PLAYING:START -->
+<a href="https://open.spotify.com/user/nealalim26">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=nealalim26&redirect=true" alt="Spotify Now Playing" width="400" />
+</a>
+<!-- SPOTIFY-CURRENTLY-PLAYING:END -->
+
+</div>
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:waka-->
@@ -112,7 +124,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/nealalim26/nealalim26/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](./github-contribution-grid-snake.svg)
 
 </div>
 
