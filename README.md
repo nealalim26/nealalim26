@@ -46,7 +46,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ```
 Frontend Development  ████████████████████████████████████████████████████████████████████████████████████████████████ 90%
@@ -56,7 +56,7 @@ DevOps & Cloud        ███████████████████�
 AI/ML Integration     ██████████████████████████████████████████████████████████████████████ 65%
 ```
 
-</div>
+</div> -->
 
 ## 🛠️ Technologies & Tools
 
@@ -116,12 +116,12 @@ AI/ML Integration     ███████████████████�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nealalim26&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealalim26&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nealalim26&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nealalim26&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nealalim26&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nealalim26&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00d4ff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -131,10 +131,10 @@ AI/ML Integration     ███████████████████�
 
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nealalim26&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nealalim26&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nealalim26&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nealalim26&theme=radical&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nealalim26&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nealalim26&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nealalim26&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nealalim26&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 <!-- Alternative Stats in case main ones don't load -->
@@ -155,7 +155,7 @@ AI/ML Integration     ███████████████████�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nealalim26&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nealalim26&theme=discord&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
 <!-- Metrics Widget -->
@@ -167,25 +167,8 @@ AI/ML Integration     ███████████████████�
 
 <div align="center">
 
-<!-- Replace this URL with your Vercel deployment URL once ready -->
-[![Spotify](https://nealalim26-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/nealalim26)
+![Spotify Now Playing](https://spotify-widget-five.vercel.app/api/spotify)
 
-</div>
-
-<!-- Alternative display if widget doesn't load -->
-<div align="center">
-<details>
-<summary>🎧 My Music Taste</summary>
-<br>
-
-**Currently jamming to Filipino hits! 🇵🇭**
-
-🎵 Recent favorites:
-- "Ikaw" by Yeng Constantino
-- "Pusong Ligaw" by Jericho Rosales  
-- "Got 2 Believe in Magic" by Side A
-
-</details>
 </div>
 
 ## ⚡ Recent Activity
@@ -195,7 +178,7 @@ AI/ML Integration     ███████████████████�
 
 <!-- WakaTime Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nealalim26&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="WakaTime Stats" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -219,14 +202,14 @@ AI/ML Integration     ███████████████████�
 </div>
 
 <!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+<!-- <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div> -->
 
 <!-- Jokes Card -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-</div>
+<!-- <div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Jokes Card" />
+</div> -->
 
 ## 🌐 Connect with Me
 
