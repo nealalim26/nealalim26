@@ -108,9 +108,7 @@
 <div align="center">
 
 <!-- SPOTIFY-CURRENTLY-PLAYING:START -->
-<a href="https://open.spotify.com/user/nealalim26">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=nealalim26&redirect=true" alt="Spotify Now Playing" width="400" />
-</a>
+🎧 **Not Playing Anything Right Now** 🎧
 <!-- SPOTIFY-CURRENTLY-PLAYING:END -->
 
 </div>

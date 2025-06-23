@@ -21,9 +21,17 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Update Spotify Status
-        uses: kittinan/spotify-github-profile@master
+      - name: Update Spotify Currently Playing
+        uses: natemoo-re/spotify-now-playing@master
         with:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }} 
+          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update Spotify currently playing"
+          git push || echo "No changes to push" 
