@@ -86,7 +86,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/nealalim26/nealalim26/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nealalim26/nealalim26/blob/main/github-contribution-grid-snake.svg)
 
 </div>
 
