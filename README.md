@@ -34,7 +34,7 @@
 <!-- Skill Progress Bars -->
 ## 📊 Skill Levels
 
-<div align="center">
+<div align="left">
 
 | Skill | Progress | Level |
 |-------|----------|-------|
@@ -181,10 +181,7 @@ AI/ML Integration     ███████████████████�
 
 <div align="center">
 
-### 🌙 Dark Theme
 ![Snake animation](./github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-### ☀️ Light Theme  
 ![Snake animation](./github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
@@ -214,9 +211,9 @@ AI/ML Integration     ███████████████████�
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nealalim26)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nealalim26)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nealalim26)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nealalim26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nealalim26.dev)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nealalim26)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nealalim26@lebryne.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lebryne.com/neal)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nealalim26)
 
 </div>
 
@@ -228,11 +225,11 @@ AI/ML Integration     ███████████████████�
 ---
 
 <div align="center">
-  <i>⚡ "The best way to predict the future is to invent it." - Alan Kay</i>
+  <!-- <i>⚡ "The best way to predict the future is to invent it." - Alan Kay</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=nealalim26&style=flat-square&color=blue" alt="Profile views"/>
-  
+   -->
   <!-- Thanks for visiting -->
-  <br><br>
+  <!-- <br><br> -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!;Always+happy+to+collaborate!" alt="Thanks" />
 </div>
