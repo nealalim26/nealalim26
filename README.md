@@ -137,30 +137,15 @@ AI/ML Integration     ███████████████████�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nealalim26&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
-<!-- Alternative Stats in case main ones don't load -->
-<details>
-<summary>📈 Alternative Stats View</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nealalim26&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats Alternative"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nealalim26&theme=radical" alt="Profile Summary"/>
-</div>
-
-</details>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nealalim26&theme=discord&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </div>
 
-<!-- Metrics Widget -->
+<!-- GitHub Metrics Alternative -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/nealalim26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FManila" alt="Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nealalim26&theme=github_dark" alt="GitHub Metrics" />
 </div>
 
 ## 🎵 Currently Listening To
