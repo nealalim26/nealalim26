@@ -168,7 +168,9 @@ AI/ML Integration     ███████████████████�
 <div align="center">
 
 ### 🎧 Currently Playing on Spotify
-[![Spotify](spotify-widget-five.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
+<!-- [![Spotify](spotify-widget-five.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia) -->
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31iaipcm3ovjuoonauxdqhpkdoia)
 
 </div>
 
