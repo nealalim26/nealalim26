@@ -167,7 +167,11 @@ AI/ML Integration     ███████████████████�
 
 <div align="center">
 
+<!-- Your Vercel Widget (Primary) -->
 ![Spotify Now Playing](https://spotify-widget-five.vercel.app/api/spotify)
+
+<!-- Fallback Widget (if yours is down) -->
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=nealalim26&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f)](https://open.spotify.com/user/nealalim26)
 
 </div>
 
