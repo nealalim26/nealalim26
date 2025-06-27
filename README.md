@@ -170,7 +170,7 @@ AI/ML Integration     ███████████████████�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2032%20mins-blue)
 
 **I'm an Early 🐤** 
 
