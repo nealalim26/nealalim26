@@ -9,9 +9,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nealalim26&color=0e75b6&style=flat)](https://github.com/nealalim26)
 [![GitHub followers](https://img.shields.io/github/followers/nealalim26?label=Followers&style=social)](https://github.com/nealalim26?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/nealalim26?label=Stars&style=social)](https://github.com/nealalim26?tab=repositories)
-[![Years Badge](https://badges.pufler.dev/years/nealalim26)](https://github.com/nealalim26)
-[![Repos Badge](https://badges.pufler.dev/repos/nealalim26)](https://github.com/nealalim26?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/nealalim26)](https://github.com/nealalim26)
 
 </div>
 
