@@ -25,7 +25,7 @@
 - 🌱 I'm currently learning advanced software architecture patterns
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about Full Stack Development, JavaScript, TypeScript, React, Node.js
-- 📫 How to reach me: [nealalim26@gmail.com](mailto:nealalim26@gmail.com)
+- 📫 How to reach me: [nealalim26@lebryne.com](mailto:nealalim26@lebryne.com)
 - ⚡ Fun fact: I love turning coffee into code!
 
 <!-- Skill Progress Bars -->
