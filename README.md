@@ -167,15 +167,15 @@ AI/ML Integration     ███████████████████�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-490%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-490%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 40.6 kB Used in GitHub's Storage 
+> 📦 40.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2,123 Contributions in the Year 2026
  > 
@@ -212,48 +212,49 @@ Sunday                   1397 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               9 hrs               ███████████████░░░░░░░░░░   59.34 % 
-Markdown                 3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               9 hrs 36 mins       ███████████████░░░░░░░░░░   60.19 % 
+Markdown                 3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 59 mins      █████████████████████████   98.79 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Cursor                   15 hrs 36 mins      ████████████████████████░   97.80 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Devin                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-gradegenius_bo           4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-lipadcorp                2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-lipadcorp-gas            1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-imperial-custom-blockchai1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-lipadcorp-billing        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+gradegenius_bo           4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+lipadcorp                2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+lipadcorp-gas            1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+imperial-custom-blockchai1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+lipadcorp-config         55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      ████████████████████████░   95.11 % 
+Windows                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 48 mins (90.98%)
+⏱ AI Coding Time: 14 hrs 10 mins (88.81%)
 
-✍️ 37,193 lines written by AI, 296 lines written by hand (99.21% AI-written)
+✍️ 37,734 lines written by AI, 311 lines written by hand (99.18% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 257 AI Prompts
+🧠 107 AI Sessions, 260 AI Prompts
 
 Cursor                   103 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.21% of written lines came from AI
-📄 Detailed Prompter — average 789 characters per prompt
+🤖 AI-Driven — 99.18% of written lines came from AI
+📄 Detailed Prompter — average 783 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.81% of changed lines were hand-edited
+🚀 High AI Trust — 0.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -273,7 +274,7 @@ VBA                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nealalim26/nealalim26/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 00:28:13 UTC
+ Last Updated on 03/08/2026 00:29:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- WakaTime Stats -->
