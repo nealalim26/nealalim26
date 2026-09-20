@@ -212,53 +212,51 @@ Sunday                   1606 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               6 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.01 % 
-Markdown                 3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+TypeScript               6 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.34 % 
+Markdown                 3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Text                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Image (png)              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 19 mins      █████████████████░░░░░░░░   67.70 % 
-Agent                    5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
-Codex Vscode             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Cursor                   8 hrs 22 mins       ████████████████░░░░░░░░░   65.11 % 
+Agent                    4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-lipadcorp-legal          2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-nealalim26               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-lipadcorp-asqco          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-lipadcorp-agent-dtr-revie1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-jmc-apps                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+lipadcorp-legal          2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+nealalim26               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+lipadcorp-asqco          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+lipadcorp-agent-dtr-revie1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+gradegenius_ui           59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 💻 Operating System: 
-Mac                      16 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 33 mins (93.02%)
+⏱ AI Coding Time: 12 hrs 5 mins (93.91%)
 
-✍️ 23,835 lines written by AI, 206 lines written by hand (99.14% AI-written)
+✍️ 19,008 lines written by AI, 52 lines written by hand (99.73% AI-written)
 
-🔤 1,460,838 Input Tokens, 1,498,999 Output Tokens
+🔤 1,347,840 Input Tokens, 1,444,817 Output Tokens
 
-💵 $28.25 Estimated AI Cost This Week
+💵 $25.72 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 414 AI Prompts
+🧠 123 AI Sessions, 340 AI Prompts
 
-Grok                     1,125 lines         █████████░░░░░░░░░░░░░░░░   37.43 % 
-Opus                     1,034 lines         █████████░░░░░░░░░░░░░░░░   34.40 % 
-Cursor                   428 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-GPT                      419 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Grok                     1,125 lines         ███████████░░░░░░░░░░░░░░   43.49 % 
+Opus                     1,034 lines         ██████████░░░░░░░░░░░░░░░   39.97 % 
+Cursor                   428 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
-📚 Verbose Prompter — average 13,886 characters per prompt
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 16,204 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.92% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -278,7 +276,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nealalim26/nealalim26/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 02:19:30 UTC
+ Last Updated on 20/09/2026 02:25:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- WakaTime Stats -->
