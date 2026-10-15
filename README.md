@@ -167,17 +167,17 @@ AI/ML Integration     ███████████████████�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-752%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-756%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 51.0 kB Used in GitHub's Storage 
+> 📦 69.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,236 Contributions in the Year 2026
+> 🏆 3,255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -188,21 +188,21 @@ AI/ML Integration     ███████████████████�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7347 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌆 Daytime                9577 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
-🌃 Evening                6725 commits        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-🌙 Night                  243 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+🌞 Morning                7374 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌆 Daytime                9595 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
+🌃 Evening                6741 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌙 Night                  243 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   4215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Tuesday                  4523 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Wednesday                3937 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Thursday                 3798 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   3849 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 1910 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Sunday                   1660 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Monday                   4222 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  4540 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                3948 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Thursday                 3821 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Friday                   3851 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Saturday                 1910 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Sunday                   1661 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
@@ -212,53 +212,54 @@ Sunday                   1660 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               21 hrs 46 mins      █████████████████░░░░░░░░   68.99 % 
-Markdown                 5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Text                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Git Config               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-SQL                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript               18 hrs 4 mins       ████████████████░░░░░░░░░   63.89 % 
+Markdown                 5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Git Config               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Agent                    19 hrs 20 mins      ███████████████░░░░░░░░░░   61.28 % 
-Cursor                   8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-VS Code                  3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Bot                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Agent                    21 hrs 30 mins      ███████████████████░░░░░░   76.02 % 
+VS Code                  3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Cursor                   2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Codex Vscode             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-lipadcorp                12 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   39.84 % 
-gradegenius_bo           4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-gradegenius_ui           4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-jmc-hcms                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-lipadcorp-hr             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+lipadcorp                7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+gradegenius_bo           4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+gradegenius_ui           4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+jmc-hcms                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+lipadcorp-agent-dtr-revie1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 💻 Operating System: 
-Mac                      31 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 11 mins (98.85%)
+⏱ AI Coding Time: 27 hrs 49 mins (98.35%)
 
-✍️ 49,610 lines written by AI, 10 lines written by hand (99.98% AI-written)
+✍️ 54,928 lines written by AI, 58 lines written by hand (99.89% AI-written)
 
-🔤 47,000 Input Tokens, 1,779 Output Tokens
+🔤 514,482 Input Tokens, 60,010 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $3.33 Estimated AI Cost This Week
 
-🧠 125 AI Sessions, 509 AI Prompts
+🧠 142 AI Sessions, 474 AI Prompts
 
-Cursor                   33,440 lines        ████████████████░░░░░░░░░   63.83 % 
-Grok                     10,606 lines        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Opus                     8,308 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-GPT                      38 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Cursor                   47,286 lines        █████████████████████░░░░   83.17 % 
+Opus                     6,369 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+GPT                      2,813 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Grok                     384 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 718 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -278,7 +279,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nealalim26/nealalim26/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 02:46:49 UTC
+ Last Updated on 15/10/2026 02:25:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- WakaTime Stats -->
